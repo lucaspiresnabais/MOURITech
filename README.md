@@ -8,7 +8,7 @@
 
      I like the first one because it's easy-to-read and mantain from a dev point of view.
 
-     And I like the the second one because in spite of being "harder" to read, the use of an 
+     And I like the the second one (I left it commented) because in spite of being "harder" to read, the use of an 
      array of objects as the data-set allows to add more extra cases without the need of 
      touching the actual function
 
